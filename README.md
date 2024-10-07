@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div>
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="vansh-sardana" /> I'm Vansh Sardana </h1> <img align="right" src="https://avatars.githubusercontent.com/u/107904311?v=4" alt="vansh-sardana" /> 
+<div>
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />

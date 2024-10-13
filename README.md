@@ -1,9 +1,7 @@
-## Hi there 👋
 <div>
   <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="vansh-sardana" /> I'm Vansh Sardana </h1> <img align="right" src="https://avatars.githubusercontent.com/u/107904311?v=4" alt="vansh-sardana" /> 
 <div>
 
-# 💻 Tech Stack:
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
